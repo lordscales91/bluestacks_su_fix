@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlueStacks 2 SU Fixer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="status">Status</string>
+    <string name="su_binary">su binary:</string>
+    <string name="dashes">---</string>
+    <string name="supersu">SuperSU:</string>
+    <string name="fixsu">Fix SU</string>
+    <string name="unroot">Unroot</string>
+
+</resources>
